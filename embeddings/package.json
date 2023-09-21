@@ -14,7 +14,9 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
+    "@cyber2024/pdf-parse-fixed": "^1.2.5",
     "dotenv": "^16.3.1",
+    "llamaindex": "^0.0.28",
     "openai": "^4.8.0"
   }
 }
